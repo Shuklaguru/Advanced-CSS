@@ -1,0 +1,17 @@
+:root{
+           
+    --content-bg-color:#00b7ff;
+    --content-color:#6c757d;
+}
+body{
+ margin: 0px;
+ padding: 30px;
+}
+#pb{
+    background-color: var(--content-bg-color);
+    padding: 10px;
+}
+#sb{
+    background-color: var(--content-color);
+    padding: 10px;
+}
